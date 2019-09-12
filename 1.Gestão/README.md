@@ -1,9 +1,8 @@
 # PS-ES-2019-2-BalanceamentoEquipes
 
 
-##Grupo
-*Felipe Galvão lagares - felipe.g.lagares@gmail.com - Líder
-*Gustavo Xisto Curvelo - curveloxisto@gmail.com - Desenvolvedor
+##Participantes do Grupo
+*Felipe Galvão lagares - felipe.g.lagares@gmail.com - Matrícula: 201808795
+*Gustavo Xisto Curvelo - curveloxisto@gmail.com - Matrícula: 201802765
 
-##Professor
-*Rubens de Castro Pereira - rubenscp@gmail.com - Professor
+
